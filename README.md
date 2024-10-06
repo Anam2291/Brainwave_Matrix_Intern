@@ -1,5 +1,5 @@
 # Brainwave_Matrix_Intern
-A unique internship opportunity for high-potential young individuals to gain professional experience and develop critical leadership competencies.
+An internship opportunity for high-potential young individuals to gain professional experience and develop critical leadership competencies.
 
 Task_1 :\
 Sales Data Analysis: Exploring Order Priorities, Product Demand, Customer Segments, Shipping Modes, and Regional Performance
